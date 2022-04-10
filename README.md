@@ -1,4 +1,4 @@
-# macOS Monterey Setup using Ansible
+# macOS Monterey setup using Ansible
 
 <p float="left">
   <img src="./pics/macOS.jpeg" width="100" />
