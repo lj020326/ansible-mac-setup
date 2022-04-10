@@ -1,5 +1,10 @@
 # macOS Monterey Setup using Ansible
 
+<p float="left">
+  <img src="./pics/macOS.jpeg" width="100" />
+  <img src="./pics/ansible.png" width="80" /> 
+</p>
+
 This is my personal macOS config/setup using Ansible and will be updating it as I go along. (Currently compatible for macOS Monterey)
 
 ## How to install & Pre-reqs
