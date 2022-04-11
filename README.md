@@ -28,3 +28,11 @@ Tools to be installed:
 ## For Customisation
 
 Everything can be customised by editing `ansible_mac.yml`
+
+## What's next?
+
+- Add more functionality to this by possibly automating more functions like:
+    - Creation of users
+    - Adding users to groups in UNIX
+    - many more creation of roles
+- Break down into smaller roles & modularise. 
